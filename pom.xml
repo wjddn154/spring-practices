@@ -44,4 +44,8 @@
 	</build>
   
   
+  <modules>
+  	<module>hellospring03</module>
+  	<module>emaillist03</module>
+  </modules>
 </project>
