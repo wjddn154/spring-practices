@@ -10,7 +10,6 @@ public class CDPlayer {
 	private CompactDisct cd;
 	
 	public void play() {
-		
 		cd.play();
 	}
 
